@@ -1,0 +1,29 @@
+# Archivos y carpetas de entorno
+.env
+
+# Archivos de dependencias de Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Archivos de build
+/dist
+/build
+
+# Archivos de configuración específicos de IDE
+.idea/
+.vscode/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de Visual Studio
+.vs/
+.vs2017/
+.vs2019/
+
+
