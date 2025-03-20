@@ -65,7 +65,7 @@ async function backupRedisData() {
   try {
    // await obtenerDatosPorClave("cliente", "clientes");
    //await obtenerDatosPorClave("propietario", "propietarios");
-   await obtenerDatosPorClave("empresa", "empresas");
+   //await obtenerDatosPorClave("empresa", "empresas");
    //await obtenerDatosPorClave("menusempresa", "menús");
     //await obtenerDatosPorClave("descuento", "descuentos");
    //
